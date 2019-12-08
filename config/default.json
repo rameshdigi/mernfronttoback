@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://localhost:27017/mernfronttoback",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "2e31253dd7974bb614b2",
+  "githubSecret": "603258493439a58fe45fdaca8d8559ac28f8d282"
+}
